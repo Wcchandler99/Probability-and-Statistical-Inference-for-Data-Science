@@ -4,4 +4,3 @@
 - KS Test
 - MLE
 - KMeans Clustering
-- 
