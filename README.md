@@ -1,2 +1,4 @@
 - R Code
-- Statistical Methods
+- Quantile Quantile Plots
+- EM Algorithm
+- 
